@@ -2,7 +2,7 @@
     "name": "Task Manager",
     "short_name": "Task Manager",
     "description": "Aplicación para gestionar clases y actividades escolares",
-    "start_url": "./",
+    "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",
     "background_color": "#ffffff",

@@ -5,6 +5,7 @@
  * registrar un nuevo usuario.
  */
 
+/*
 import { User } from "../entities/User.js";
 
 export class RegisterUser {
@@ -28,7 +29,8 @@ export class RegisterUser {
     }
 
 }
-    /*
+    */
+    
 
 
 
@@ -68,4 +70,4 @@ export class RegisterUser {
         return await this.userRepository.save(user);
     }
 }
-    */
+    
